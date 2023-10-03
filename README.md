@@ -5,6 +5,12 @@ Vintri project
 
 By Faramarz Fakhri
 
+Dependencies:
+Swagger
+FluentValidation
+Moq
+
+
 Vaniti Project is a web application that allows users to search for beers and add ratings to them. This README provides an overview of the project, its components, and how to get started.
 
 Table of Contents
