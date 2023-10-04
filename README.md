@@ -1,4 +1,4 @@
-# VanitiProject
+# VintiProject
 Beer Rating via an API
 Development document:
 Vintri project
