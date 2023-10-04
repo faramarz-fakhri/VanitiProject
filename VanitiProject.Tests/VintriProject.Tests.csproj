@@ -129,9 +129,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VanitiProject\VanitiProject.csproj">
+    <ProjectReference Include="..\VanitiProject\VintriProject.csproj">
       <Project>{C8A718B5-7D04-4FE4-9A0D-3E47C12AA855}</Project>
-      <Name>VanitiProject</Name>
+      <Name>VintriProject</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
