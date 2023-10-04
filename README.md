@@ -1,4 +1,4 @@
-# VintiProject
+# VintriProject
 Beer Rating via an API
 Development document:
 Vintri project
@@ -11,7 +11,7 @@ FluentValidation
 Moq
 
 
-Vaniti Project is a web application that allows users to search for beers and add ratings to them. This README provides an overview of the project, its components, and how to get started.
+Vintri Project is a web application that allows users to search for beers and add ratings to them. This README provides an overview of the project, its components, and how to get started.
 
 Table of Contents
 Introduction
@@ -22,7 +22,7 @@ Usage
 
 
 Introduction
-The Vaniti Project is a web-based application built using ASP.NET Web API .Net Framework 4.8. It provides two main functionalities:
+The Vintri Project is a web-based application built using ASP.NET Web API .Net Framework 4.8. It provides two main functionalities:
 
 Beer Search: Users can search for beers by name using the search feature. The application makes use of the Punk API to fetch beer data based on the search query.
 Beer Rating: Users can rate and add comments to beers. Ratings are stored in a JSON file (database.json) for later retrieval.
